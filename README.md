@@ -1,0 +1,1 @@
+This project is going to explore the aplication of deep learning method to make a prediction based of a dataset from an audiobook company. The result will be an algorithm that can be used to predict will someone buy a audiobook from that company again.
